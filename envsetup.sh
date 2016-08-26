@@ -38,6 +38,7 @@ EOF
 }
 
 # Get all the build variables needed by this script in a single call to the build system.
+# Here's another comment in a file that's already there...
 function build_build_var_cache()
 {
     T=$(gettop)
